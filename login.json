@@ -1,0 +1,32 @@
+[
+  {
+    "username": "ilham",
+    "password": "root",
+    "role": "dosen"
+  },
+  {
+    "username": "ali",
+    "password": "123",
+    "role": "tendik"
+  },
+  {
+    "username": "221101074",
+    "password": "221101074",
+    "role": "mahasiswa"
+  },
+  {
+    "username": "dosen1",
+    "password": "password321",
+    "role": "dosen"
+  },
+  {
+    "username": "tendik1",
+    "password": "password654",
+    "role": "tendik"
+  },
+  {
+    "username": "221101072",
+    "password": "221101072",
+    "role": "mahasiswa"
+  }
+]
