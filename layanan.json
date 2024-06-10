@@ -1,3 +1,9 @@
 {
-  "text": "Ini adalah contoh teks yang diunggah."
+  "service": "Surat",
+  "name": "ali wibu cabul",
+  "nim": "221101072",
+  "class": "4C",
+  "prodi": "Teknik Informatika",
+  "keterangan": "Cuti menikah",
+  "alamat": "https://drive.google.com/some-link"
 }
