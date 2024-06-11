@@ -1,9 +1,149 @@
-{
-  "service": "Surat",
-  "name": "ali wibu cabul",
-  "nim": "221101072",
-  "class": "4C",
-  "prodi": "Teknik Informatika",
-  "keterangan": "Cuti menikah",
-  "alamat": "https://drive.google.com/some-link"
-}
+[
+    {
+        "name": "Budi Santoso",
+        "nim": "22110101",
+        "major": "teknik informatika",
+        "class": "1a",
+        "whatsapp": "628123456701"
+    },
+    {
+        "name": "Siti Aminah",
+        "nim": "22110102",
+        "major": "sistem informasi",
+        "class": "2b",
+        "whatsapp": "628123456702"
+    },
+    {
+        "name": "Andi Saputra",
+        "nim": "22110103",
+        "major": "big data",
+        "class": "3c",
+        "whatsapp": "628123456703"
+    },
+    {
+        "name": "Dewi Lestari",
+        "nim": "22110104",
+        "major": "pai",
+        "class": "4d",
+        "whatsapp": "628123456704"
+    },
+    {
+        "name": "Teguh Prasetyo",
+        "nim": "22110105",
+        "major": "teknik mesin",
+        "class": "5a",
+        "whatsapp": "628123456705"
+    },
+    {
+        "name": "Rina Sari",
+        "nim": "22110106",
+        "major": "farmasi",
+        "class": "6b",
+        "whatsapp": "628123456706"
+    },
+    {
+        "name": "Asep Sunandar",
+        "nim": "22110107",
+        "major": "pjkr",
+        "class": "7c",
+        "whatsapp": "628123456707"
+    },
+    {
+        "name": "Sri Wahyuni",
+        "nim": "22110108",
+        "major": "hes",
+        "class": "8d",
+        "whatsapp": "628123456708"
+    },
+    {
+        "name": "Wawan Setiawan",
+        "nim": "22110109",
+        "major": "matematika",
+        "class": "1b",
+        "whatsapp": "628123456709"
+    },
+    {
+        "name": "Eka Widiastuti",
+        "nim": "22110110",
+        "major": "sistem komputer",
+        "class": "2c",
+        "whatsapp": "628123456710"
+    },
+    {
+        "name": "Fajar Nugroho",
+        "nim": "22110111",
+        "major": "big data",
+        "class": "3d",
+        "whatsapp": "628123456711"
+    },
+    {
+        "name": "Rizki Rahmat",
+        "nim": "22110112",
+        "major": "pai",
+        "class": "4a",
+        "whatsapp": "628123456712"
+    },
+    {
+        "name": "Lina Agustina",
+        "nim": "22110113",
+        "major": "teknik mesin",
+        "class": "5b",
+        "whatsapp": "628123456713"
+    },
+    {
+        "name": "Yusuf Maulana",
+        "nim": "22110114",
+        "major": "farmasi",
+        "class": "6c",
+        "whatsapp": "628123456714"
+    },
+    {
+        "name": "Nina Rahmawati",
+        "nim": "22110115",
+        "major": "pjkr",
+        "class": "7d",
+        "whatsapp": "628123456715"
+    },
+    {
+        "name": "Mila Putri",
+        "nim": "22110116",
+        "major": "hes",
+        "class": "8a",
+        "whatsapp": "628123456716"
+    },
+    {
+        "name": "Bayu Wirawan",
+        "nim": "22110117",
+        "major": "matematika",
+        "class": "1c",
+        "whatsapp": "628123456717"
+    },
+    {
+        "name": "Ilham Pratama",
+        "nim": "22110118",
+        "major": "sistem komputer",
+        "class": "2d",
+        "whatsapp": "628123456718"
+    },
+    {
+        "name": "Ratna Sari",
+        "nim": "22110119",
+        "major": "teknik informatika",
+        "class": "3a",
+        "whatsapp": "628123456719"
+    },
+    {
+        "name": "Aditya Putra",
+        "nim": "22110120",
+        "major": "sistem informasi",
+        "class": "4b",
+        "whatsapp": "628123456720"
+    },
+  {
+        "name": "Mohammad Ilham Setiawan",
+        "nim": "22110174",
+        "major": "teknik informatika",
+        "class": "4b",
+        "whatsapp": "62881027107840"
+    }
+]
